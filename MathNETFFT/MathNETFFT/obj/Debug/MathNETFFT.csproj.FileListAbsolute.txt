@@ -1,0 +1,11 @@
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\bin\Debug\MathNETFFT.exe.config
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\bin\Debug\MathNETFFT.exe
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\bin\Debug\MathNETFFT.pdb
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\bin\Debug\MathNet.Numerics.dll
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\bin\Debug\MathNet.Numerics.xml
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\obj\Debug\MathNETFFT.csprojResolveAssemblyReference.cache
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\obj\Debug\MathNETFFT.Form1.resources
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\obj\Debug\MathNETFFT.Properties.Resources.resources
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\obj\Debug\MathNETFFT.csproj.GenerateResource.Cache
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\obj\Debug\MathNETFFT.exe
+c:\users\kozakz999\documents\visual studio 2015\Projects\MathNETFFT\MathNETFFT\obj\Debug\MathNETFFT.pdb
