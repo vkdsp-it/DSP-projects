@@ -1,0 +1,11 @@
+c:\users\kozakz999\documents\visual studio 2015\Projects\PWM\PWM\bin\Debug\PWM.exe.config
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\bin\Debug\PWM.exe
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\bin\Debug\PWM.pdb
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\obj\Debug\PWM.csprojResolveAssemblyReference.cache
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\obj\Debug\PWM.Properties.Resources.resources
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\obj\Debug\PWM.csproj.GenerateResource.Cache
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\obj\Debug\PWM.exe
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\obj\Debug\PWM.pdb
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\obj\Debug\PWM.Form1.resources
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\bin\Debug\MathNet.Numerics.dll
+C:\Users\kozakz999\Documents\Visual Studio 2015\Projects\PWM\PWM\bin\Debug\MathNet.Numerics.xml
